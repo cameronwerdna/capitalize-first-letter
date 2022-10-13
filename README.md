@@ -1,0 +1,1 @@
+function which takes a sentence and capitalizes the first letter of each word.
